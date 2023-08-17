@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-26T16:30:40 IST" name="Default suite" finished-at="2023-07-26T16:30:48 IST" duration-ms="8023">
+    <groups>
+    </groups>
+    <test started-at="2023-07-26T16:30:40 IST" name="Default test" finished-at="2023-07-26T16:30:48 IST" duration-ms="8023">
+      <class name="pro1.TestCase">
+        <test-method signature="LoginErrormsgTest()[pri:0, instance:pro1.TestCase@2a7f1f10]" started-at="2023-07-26T16:30:40 IST" name="LoginErrormsgTest" finished-at="2023-07-26T16:30:47 IST" duration-ms="6351" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginErrormsgTest -->
+        <test-method signature="VerifyLandingPage()[pri:0, instance:pro1.TestCase@2a7f1f10]" started-at="2023-07-26T16:30:47 IST" name="VerifyLandingPage" finished-at="2023-07-26T16:30:48 IST" duration-ms="1610" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyLandingPage -->
+      </class> <!-- pro1.TestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
